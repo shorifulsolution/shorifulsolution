@@ -309,6 +309,7 @@ h2{
 }
 .pub-title{ font-family: var(--serif); font-size: 1.05rem; margin: 0 0 6px; color: var(--ink); }
 .pub-meta{ font-size: 0.92rem; color: var(--muted); margin: 0 0 8px; }
+.pub-meta strong{ color: var(--ink); font-weight: 600; }
 .pub-link{ font-family: var(--mono); font-size: 0.8rem; text-decoration: none; border-bottom: 1px solid var(--steel); }
 .pub-link:hover{ color: var(--rust); border-color: var(--rust); }
 .pub-note{ font-size: 0.82rem; color: var(--muted); margin-top: 16px; }
